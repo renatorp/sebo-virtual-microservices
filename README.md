@@ -12,6 +12,9 @@ https://github.com/renatorp/sv-emprestimo-service
 ###sv-rede-social-service
 https://github.com/renatorp/sv-rede-social-service
 
+## Diagrama
+![Diagrama de Componentes](https://github.com/renatorp/sebo-virtual-microservices/blob/master/sebo-online-microservices.png)
+
 ## Problema
 
  Considere um SEBO virtual, i.e., um local onde pessoas podem
